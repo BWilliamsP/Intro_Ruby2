@@ -1,4 +1,5 @@
-a = 5
+puts "Hello. 5 or 6?"
+a = gets.chomp.to_i
 
 case a
 when 5
